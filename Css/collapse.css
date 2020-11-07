@@ -1,0 +1,95 @@
+.active.ant-collapse > .ant-collapse-item > .ant-collapse-header {
+  border-top: 3px solid black;
+}
+
+.formStyle {
+  margin-left: 20px;
+  background-color: #f8f8f8;
+  width: 300px;
+  padding: 12px;
+}
+
+.navBar {
+  margin-bottom: 20px;
+  padding: 12px;
+  background-color: #a9a9a9;
+}
+
+.image {
+  position: absolute;
+  width: 40px;
+  height: auto;
+}
+
+.title {
+  color: #000000;
+  position: relative;
+  top: 0px;
+  bottom: 20px;
+  left: 60px;
+  width: 200px;
+  height: auto;
+}
+
+.title:hover {
+  color: #000000;
+}
+
+.btn {
+  font-style: bold;
+  color: black;
+  float: right;
+  position: relative;
+  top: -40px;
+  left: -10px;
+  bottom: 20px;
+  width: 75px;
+  height: auto;
+
+  border-radius: 10px;
+  transition-duration: 0.2s;
+}
+
+.btn:hover {
+  background-color: #505050;
+  color: #ffffff;
+}
+
+.mainPage {
+  display: inline-block;
+}
+
+.results {
+  display: inline-flex;
+  text-align: left;
+  position: relative;
+  top: -300px;
+  left: 400px;
+  width: 50vw;
+  word-wrap: break-word;
+  height: auto;
+  padding: 10px;
+}
+
+.pageDescription {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4vh;
+  padding-left: 10px;
+  border-style: solid;
+}
+
+.footer {
+  position: absolute;
+  padding: 5px;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  background-color: #a9a9a9;
+}
+
+.copyright {
+  font-size: 16px;
+  text-align: center;
+  padding-left: 10px;
+  position: relative;
+}
